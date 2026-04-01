@@ -1,0 +1,9 @@
+.pio
+.vscode
+*.o
+*.elf
+build/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
