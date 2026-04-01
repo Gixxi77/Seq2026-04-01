@@ -8,7 +8,7 @@
 
 ## Overview
 
-After 18 months of intense development, we are proud to announce the full port of **MAGIX Sequoia 2026** to the **ESP32 microcontroller platform** with a 128x128 pixel ST7735 TFT display.
+After 18 months of intense development, we are proud to announce the full port of **Boris FX Sequoia 2026** to the **ESP32 microcontroller platform** with a 128x128 pixel ST7735 TFT display.
 
 This project delivers the complete Sequoia experience - including the arrangement view, mixer, transport controls, real-time waveform rendering, ARA plugin hosting, and VST3 support - all running on 520KB of SRAM and a 240MHz dual-core Xtensa processor.
 
